@@ -1,5 +1,5 @@
 # IOT-SYSTEM-TO-ADDRESS-HEAT-PROBLEMS-WITH-ARDUINO-UNO
-##### To monitor and advice for various precautions against heat
+##### To monitor and advice the user accordingly for taking various precautions against heat
 
 ![](https://img.shields.io/badge/Arduino-2.3.2-red) ![](https://img.shields.io/badge/Contribute_Now!-yellow)
 ---
