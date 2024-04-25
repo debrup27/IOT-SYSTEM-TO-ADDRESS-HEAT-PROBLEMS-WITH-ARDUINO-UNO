@@ -47,6 +47,7 @@ An Arduino system that monitors:-
 ## Circuit Diagram
 
 ![circuit_diagram](https://github.com/debrup27/IOT-SYSTEM-TO-ADDRESS-HEAT-PROBLEMS-WITH-ARDUINO-UNO/assets/168071999/d508d659-7bc7-4377-a5ca-110a92b6839f)
+![practical_circuit](https://github.com/debrup27/IOT-SYSTEM-TO-ADDRESS-HEAT-PROBLEMS-WITH-ARDUINO-UNO/assets/168071999/fa43967f-eb18-404a-9446-3bef63ec1880)
 
 
 ## Problems and Contributions
