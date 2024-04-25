@@ -26,7 +26,7 @@ An Arduino system that monitors:-
 - Asks the user to enter their weight and accordingly ask them to drink the recommended amount of water in order to stay hydrated
 - Displays all results in bluetooth and allows the user to input their weights in terminal.
 
-## Harwares and Sensors used
+## Hardwares and Sensors used
 
 >- Arduino Uno R3
 >- DHT11 Temperature and Humidity sensor
